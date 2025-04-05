@@ -19,12 +19,15 @@ body{
 .one{
     
 }
+.two{
+    background-color: blue;
+}
 
 .first-page-hero{
     width: 95vw;
     height: 80vh;
     transform: scale(1);
-    
+    background-color: gray;
     overflow: hidden;
     
     position: fixed;
